@@ -61,6 +61,9 @@ const showCart = () => {
   });
   divCart.innerHTML = str;
 };
+const placeOrders = ()=>{
+  
+}
 const showProducts = (data) => {
   products = data
   let str = "<div class='row'>";
