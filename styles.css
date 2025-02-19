@@ -3,6 +3,12 @@
     justify-content: space-between;
     padding: 10px;
 }
+.menu {
+    display:flex;
+}
+.menu div {
+    padding: 10px;
+}
 .row {
     display:flex;
     justify-content: center;
@@ -25,10 +31,4 @@
     border-radius: 5px;
     border: none;
     font-weight: bold;
-}
-.menu{
-    display: flex;
-}
-.menu div{
-    padding: 10px;
 }
